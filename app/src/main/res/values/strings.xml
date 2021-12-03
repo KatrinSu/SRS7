@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Design</string>
+    <string name="hello">Hello!</string>
+    <string name="next">next</string>
+    <string name="page_title" />
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="slider_desc">slider_desk</string>
+    <string name="wi_fi">WI FI</string>
+    <string name="other">other</string>
+    <string name="end">END</string>
+</resources>
